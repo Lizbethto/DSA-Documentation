@@ -11,3 +11,5 @@ MS Excel for Data cleaning [Download Here](https://www.microsoft.com)
 SELECT A,B,C
 WHERE A > 15
 ```
+### Analysis
+![4 Practical Tips To Help You Get Started With Sustainable Investing](https://github.com/user-attachments/assets/4ab52a5e-f050-40c0-ab4c-d2e661c2994c)
