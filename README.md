@@ -5,3 +5,9 @@ I have learnt a quite number of things from Using Excel to SQL to Power BI.
 
 ## Tools used
 MS Excel for Data cleaning [Download Here](https://www.microsoft.com)
+
+## Data Analysis
+``` SQL
+SELECT A,B,C
+WHERE A > 15
+```
